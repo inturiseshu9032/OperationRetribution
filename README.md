@@ -14,8 +14,7 @@ The game focuses on combat, enemy AI, weapon mechanics, level progression, check
 - 💀 Enemy health and death system
 - 🏢 Multi-level parking environment
 - 🛗 Elevator-based level transitions
-- 📍 Checkpoint and respawn system
-- 👹 Boss battle
+- 📍 spawn system
 - 🎵 Weapon and gameplay audio
 - 🖥️ Gameplay UI
 - 🎨 3D environment and level design
